@@ -2,6 +2,7 @@
 
 
 ### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tushar-kumar&theme=jolly&fire=00BAFF&border=E7E7E7)](https://git.io/streak-stats)
 
 <!--
 **tushar-kumar/tushar-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
