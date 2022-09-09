@@ -1,5 +1,29 @@
 ### Hi there 👋 I am TUSHAR
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/tushar201kumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+### :man_technologist: About Me :
+
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: I’m currently an engineering student and working on my project and also contributing to open-source.
+
+- :seedling: Exploring Technical Content and interested in tech world.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks, HackerRank and LeetCode and also read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tushar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tushar201kumar/)
+
 ### :fire: My Stats :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
