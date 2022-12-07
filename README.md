@@ -68,9 +68,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tushar-kumar&theme=jolly&fire=00BAFF&border=E7E7E7)](https://git.io/streak-stats)
 </br>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-kumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 <!--
 <a href="https://neo-web-port.netlify.app"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=tushar-kumar&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-kumar&hide=htm
 
