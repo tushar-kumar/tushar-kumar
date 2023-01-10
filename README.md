@@ -50,7 +50,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>
 </div> 
 
-## Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -60,7 +60,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-## :fire: My Stats :
+### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tushar-kumar&theme=jolly&fire=00BAFF&border=E7E7E7)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-kumar&show_icons=true&theme=jolly&fire=00BAFF&border=E7E7E7)
 </br>
