@@ -62,7 +62,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tushar-kumar&theme=jolly&fire=00BAFF&border=E7E7E7)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-kumar&show_icons=true&theme=jolly&fire=00BAFF&border=E7E7E7)
+<!-- ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-kumar&show_icons=true&theme=jolly&fire=00BAFF&border=E7E7E7)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-kumar&layout=compact)](https://github.com/tushar-kumar/github-readme-stats)
-
+ -->
