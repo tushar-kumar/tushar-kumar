@@ -38,7 +38,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,kubernetes,docker,c" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,docker,c,java,py,r,go,gcp,azure,react,flutter,nodejs" />
   </a>
 </div> 
 
