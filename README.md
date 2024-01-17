@@ -1,8 +1,10 @@
 
-# Happy Hactoberfest & Proudly Planted a TREE
+ <!--
+ # Happy Hactoberfest & Proudly Planted a TREE
 [![@cool_tushar's Holopin board](https://holopin.me/cool_tushar)](https://holopin.io/@cool_tushar)
 
 </br>
+-->
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -51,10 +53,11 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-
+<!--
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tushar-kumar&theme=jolly&fire=00BAFF&border=E7E7E7)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-kumar&show_icons=true&theme=jolly&fire=00BAFF&border=E7E7E7)
+-->
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-kumar&layout=compact)](https://github.com/tushar-kumar/github-readme-stats)
 
